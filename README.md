@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Shahad 👋
 
-<!--
-**shahad-almaamari/Shahad-almaamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Artificial Intelligence student who enjoys building things and figuring out how they work.
 
-Here are some ideas to get you started:
+Right now I'm focusing on Python, machine learning, and Agentic AI. Most of the projects here are things I built while learning, so this profile is basically a record of my progress over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+
+- Learning Python more deeply
+- Building AI and automation projects
+- Exploring LLMs and AI agents
+- Improving my Git and GitHub workflow
+
+## Tech I'm using
+
+- Python
+- Git & GitHub
+- VS Code
+
+More coming as I learn.
+
+## Goals
+
+I'd like to become an AI Engineer and eventually work on products that solve real problems. Until then, I'll keep building, experimenting, and sharing what I learn.
+
+Thanks for stopping by.
